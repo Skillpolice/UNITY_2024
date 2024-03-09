@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasl_43_OOP_IS_AS", "Tasl_43_OOP_IS_AS\Tasl_43_OOP_IS_AS.csproj", "{1CD85910-730C-44E3-B25D-B6B12BB22663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD85910-730C-44E3-B25D-B6B12BB22663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD85910-730C-44E3-B25D-B6B12BB22663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD85910-730C-44E3-B25D-B6B12BB22663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD85910-730C-44E3-B25D-B6B12BB22663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A43D255-B727-45B3-A716-B08F6252EAE9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_35_OOP_TestWork_FightHeroes(Classes)", "Task_35_OOP_TestWork_FightHeroes(Classes)\Task_35_OOP_TestWork_FightHeroes(Classes).csproj", "{E66126C2-8791-4B0A-985C-319BE8572D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E66126C2-8791-4B0A-985C-319BE8572D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66126C2-8791-4B0A-985C-319BE8572D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66126C2-8791-4B0A-985C-319BE8572D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66126C2-8791-4B0A-985C-319BE8572D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {982459F3-468C-4D81-A7CC-3E75221EF764}
+	EndGlobalSection
+EndGlobal

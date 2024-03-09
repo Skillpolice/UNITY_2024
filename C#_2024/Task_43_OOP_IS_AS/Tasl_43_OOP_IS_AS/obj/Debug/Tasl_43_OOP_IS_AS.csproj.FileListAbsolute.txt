@@ -1,0 +1,7 @@
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Tasl_43_OOP_IS_AS\Tasl_43_OOP_IS_AS\bin\Debug\Tasl_43_OOP_IS_AS.exe.config
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Tasl_43_OOP_IS_AS\Tasl_43_OOP_IS_AS\bin\Debug\Tasl_43_OOP_IS_AS.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Tasl_43_OOP_IS_AS\Tasl_43_OOP_IS_AS\bin\Debug\Tasl_43_OOP_IS_AS.pdb
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Tasl_43_OOP_IS_AS\Tasl_43_OOP_IS_AS\obj\Debug\Tasl_43_OOP_IS_AS.csproj.AssemblyReference.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Tasl_43_OOP_IS_AS\Tasl_43_OOP_IS_AS\obj\Debug\Tasl_43_OOP_IS_AS.csproj.CoreCompileInputs.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Tasl_43_OOP_IS_AS\Tasl_43_OOP_IS_AS\obj\Debug\Tasl_43_OOP_IS_AS.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Tasl_43_OOP_IS_AS\Tasl_43_OOP_IS_AS\obj\Debug\Tasl_43_OOP_IS_AS.pdb

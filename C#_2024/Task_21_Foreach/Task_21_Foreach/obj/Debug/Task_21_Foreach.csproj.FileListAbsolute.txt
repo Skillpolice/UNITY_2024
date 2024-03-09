@@ -1,0 +1,7 @@
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_21_Foreach\Task_21_Foreach\bin\Debug\Task_21_Foreach.exe.config
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_21_Foreach\Task_21_Foreach\bin\Debug\Task_21_Foreach.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_21_Foreach\Task_21_Foreach\bin\Debug\Task_21_Foreach.pdb
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_21_Foreach\Task_21_Foreach\obj\Debug\Task_21_Foreach.csproj.AssemblyReference.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_21_Foreach\Task_21_Foreach\obj\Debug\Task_21_Foreach.csproj.CoreCompileInputs.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_21_Foreach\Task_21_Foreach\obj\Debug\Task_21_Foreach.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_21_Foreach\Task_21_Foreach\obj\Debug\Task_21_Foreach.pdb

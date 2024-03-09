@@ -1,0 +1,7 @@
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_32_Connection_HasA\Task_32_Connection_HasA\bin\Debug\Task_32_Connection_HasA.exe.config
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_32_Connection_HasA\Task_32_Connection_HasA\bin\Debug\Task_32_Connection_HasA.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_32_Connection_HasA\Task_32_Connection_HasA\bin\Debug\Task_32_Connection_HasA.pdb
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_32_Connection_HasA\Task_32_Connection_HasA\obj\Debug\Task_32_Connection_HasA.csproj.AssemblyReference.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_32_Connection_HasA\Task_32_Connection_HasA\obj\Debug\Task_32_Connection_HasA.csproj.CoreCompileInputs.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_32_Connection_HasA\Task_32_Connection_HasA\obj\Debug\Task_32_Connection_HasA.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_32_Connection_HasA\Task_32_Connection_HasA\obj\Debug\Task_32_Connection_HasA.pdb

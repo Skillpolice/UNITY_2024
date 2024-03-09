@@ -1,0 +1,7 @@
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_19_Link_Massiv\Task_19_Link_Massiv\bin\Debug\Task_19_Link_Massiv.exe.config
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_19_Link_Massiv\Task_19_Link_Massiv\bin\Debug\Task_19_Link_Massiv.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_19_Link_Massiv\Task_19_Link_Massiv\bin\Debug\Task_19_Link_Massiv.pdb
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_19_Link_Massiv\Task_19_Link_Massiv\obj\Debug\Task_19_Link_Massiv.csproj.AssemblyReference.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_19_Link_Massiv\Task_19_Link_Massiv\obj\Debug\Task_19_Link_Massiv.csproj.CoreCompileInputs.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_19_Link_Massiv\Task_19_Link_Massiv\obj\Debug\Task_19_Link_Massiv.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_19_Link_Massiv\Task_19_Link_Massiv\obj\Debug\Task_19_Link_Massiv.pdb

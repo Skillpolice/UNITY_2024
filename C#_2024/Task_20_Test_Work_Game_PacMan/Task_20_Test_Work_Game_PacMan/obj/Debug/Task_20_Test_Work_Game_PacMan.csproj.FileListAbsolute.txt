@@ -1,0 +1,7 @@
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_20_Test_Work_Game_PacMan\Task_20_Test_Work_Game_PacMan\bin\Debug\Task_20_Test_Work_Game_PacMan.exe.config
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_20_Test_Work_Game_PacMan\Task_20_Test_Work_Game_PacMan\bin\Debug\Task_20_Test_Work_Game_PacMan.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_20_Test_Work_Game_PacMan\Task_20_Test_Work_Game_PacMan\bin\Debug\Task_20_Test_Work_Game_PacMan.pdb
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_20_Test_Work_Game_PacMan\Task_20_Test_Work_Game_PacMan\obj\Debug\Task_20_Test_Work_Game_PacMan.csproj.AssemblyReference.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_20_Test_Work_Game_PacMan\Task_20_Test_Work_Game_PacMan\obj\Debug\Task_20_Test_Work_Game_PacMan.csproj.CoreCompileInputs.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_20_Test_Work_Game_PacMan\Task_20_Test_Work_Game_PacMan\obj\Debug\Task_20_Test_Work_Game_PacMan.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_20_Test_Work_Game_PacMan\Task_20_Test_Work_Game_PacMan\obj\Debug\Task_20_Test_Work_Game_PacMan.pdb

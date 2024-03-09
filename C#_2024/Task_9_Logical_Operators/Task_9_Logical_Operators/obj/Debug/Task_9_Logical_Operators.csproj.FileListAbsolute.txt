@@ -1,0 +1,7 @@
+D:\1.Unity_Learn\1.GeekBrains -2023\Project\UNITY_2023\C#_2023\Task_9_Logical_Operators\Task_9_Logical_Operators\bin\Debug\Task_9_Logical_Operators.exe.config
+D:\1.Unity_Learn\1.GeekBrains -2023\Project\UNITY_2023\C#_2023\Task_9_Logical_Operators\Task_9_Logical_Operators\bin\Debug\Task_9_Logical_Operators.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\Project\UNITY_2023\C#_2023\Task_9_Logical_Operators\Task_9_Logical_Operators\bin\Debug\Task_9_Logical_Operators.pdb
+D:\1.Unity_Learn\1.GeekBrains -2023\Project\UNITY_2023\C#_2023\Task_9_Logical_Operators\Task_9_Logical_Operators\obj\Debug\Task_9_Logical_Operators.csproj.AssemblyReference.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\Project\UNITY_2023\C#_2023\Task_9_Logical_Operators\Task_9_Logical_Operators\obj\Debug\Task_9_Logical_Operators.csproj.CoreCompileInputs.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\Project\UNITY_2023\C#_2023\Task_9_Logical_Operators\Task_9_Logical_Operators\obj\Debug\Task_9_Logical_Operators.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\Project\UNITY_2023\C#_2023\Task_9_Logical_Operators\Task_9_Logical_Operators\obj\Debug\Task_9_Logical_Operators.pdb

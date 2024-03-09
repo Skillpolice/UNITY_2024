@@ -1,0 +1,7 @@
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_35_OOP_TestWork_FightHeroes(Classes)\Task_35_OOP_TestWork_FightHeroes(Classes)\bin\Debug\Task_35_OOP_TestWork_FightHeroes(Classes).exe.config
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_35_OOP_TestWork_FightHeroes(Classes)\Task_35_OOP_TestWork_FightHeroes(Classes)\bin\Debug\Task_35_OOP_TestWork_FightHeroes(Classes).exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_35_OOP_TestWork_FightHeroes(Classes)\Task_35_OOP_TestWork_FightHeroes(Classes)\bin\Debug\Task_35_OOP_TestWork_FightHeroes(Classes).pdb
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_35_OOP_TestWork_FightHeroes(Classes)\Task_35_OOP_TestWork_FightHeroes(Classes)\obj\Debug\Task_35_OOP_TestWork_FightHeroes(Classes).csproj.AssemblyReference.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_35_OOP_TestWork_FightHeroes(Classes)\Task_35_OOP_TestWork_FightHeroes(Classes)\obj\Debug\Task_35_OOP_TestWork_FightHeroes(Classes).csproj.CoreCompileInputs.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_35_OOP_TestWork_FightHeroes(Classes)\Task_35_OOP_TestWork_FightHeroes(Classes)\obj\Debug\Task_35_OOP_TestWork_FightHeroes(Classes).exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_35_OOP_TestWork_FightHeroes(Classes)\Task_35_OOP_TestWork_FightHeroes(Classes)\obj\Debug\Task_35_OOP_TestWork_FightHeroes(Classes).pdb

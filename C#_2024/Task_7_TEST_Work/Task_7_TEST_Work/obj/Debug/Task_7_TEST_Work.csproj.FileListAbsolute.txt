@@ -1,0 +1,7 @@
+D:\1.Unity_Learn\1.GeekBrains -2023\Project\UNITY_2023\C#_2023\Task_7_TEST_Work\Task_7_TEST_Work\bin\Debug\Task_7_TEST_Work.exe.config
+D:\1.Unity_Learn\1.GeekBrains -2023\Project\UNITY_2023\C#_2023\Task_7_TEST_Work\Task_7_TEST_Work\bin\Debug\Task_7_TEST_Work.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\Project\UNITY_2023\C#_2023\Task_7_TEST_Work\Task_7_TEST_Work\bin\Debug\Task_7_TEST_Work.pdb
+D:\1.Unity_Learn\1.GeekBrains -2023\Project\UNITY_2023\C#_2023\Task_7_TEST_Work\Task_7_TEST_Work\obj\Debug\Task_7_TEST_Work.csproj.AssemblyReference.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\Project\UNITY_2023\C#_2023\Task_7_TEST_Work\Task_7_TEST_Work\obj\Debug\Task_7_TEST_Work.csproj.CoreCompileInputs.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\Project\UNITY_2023\C#_2023\Task_7_TEST_Work\Task_7_TEST_Work\obj\Debug\Task_7_TEST_Work.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\Project\UNITY_2023\C#_2023\Task_7_TEST_Work\Task_7_TEST_Work\obj\Debug\Task_7_TEST_Work.pdb

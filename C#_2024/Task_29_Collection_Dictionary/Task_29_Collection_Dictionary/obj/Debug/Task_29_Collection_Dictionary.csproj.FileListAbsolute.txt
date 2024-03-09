@@ -1,0 +1,7 @@
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_29_Collection_Dictionary\Task_29_Collection_Dictionary\bin\Debug\Task_29_Collection_Dictionary.exe.config
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_29_Collection_Dictionary\Task_29_Collection_Dictionary\bin\Debug\Task_29_Collection_Dictionary.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_29_Collection_Dictionary\Task_29_Collection_Dictionary\bin\Debug\Task_29_Collection_Dictionary.pdb
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_29_Collection_Dictionary\Task_29_Collection_Dictionary\obj\Debug\Task_29_Collection_Dictionary.csproj.AssemblyReference.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_29_Collection_Dictionary\Task_29_Collection_Dictionary\obj\Debug\Task_29_Collection_Dictionary.csproj.CoreCompileInputs.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_29_Collection_Dictionary\Task_29_Collection_Dictionary\obj\Debug\Task_29_Collection_Dictionary.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_29_Collection_Dictionary\Task_29_Collection_Dictionary\obj\Debug\Task_29_Collection_Dictionary.pdb

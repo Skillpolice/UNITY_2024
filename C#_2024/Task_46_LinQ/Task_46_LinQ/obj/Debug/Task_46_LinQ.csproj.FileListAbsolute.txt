@@ -1,0 +1,7 @@
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_46_LinQ\Task_46_LinQ\bin\Debug\Task_46_LinQ.exe.config
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_46_LinQ\Task_46_LinQ\bin\Debug\Task_46_LinQ.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_46_LinQ\Task_46_LinQ\bin\Debug\Task_46_LinQ.pdb
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_46_LinQ\Task_46_LinQ\obj\Debug\Task_46_LinQ.csproj.AssemblyReference.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_46_LinQ\Task_46_LinQ\obj\Debug\Task_46_LinQ.csproj.CoreCompileInputs.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_46_LinQ\Task_46_LinQ\obj\Debug\Task_46_LinQ.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_46_LinQ\Task_46_LinQ\obj\Debug\Task_46_LinQ.pdb

@@ -1,0 +1,7 @@
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_23_Ref_Out\Task_23_Ref_Out\bin\Debug\Task_23_Ref_Out.exe.config
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_23_Ref_Out\Task_23_Ref_Out\bin\Debug\Task_23_Ref_Out.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_23_Ref_Out\Task_23_Ref_Out\bin\Debug\Task_23_Ref_Out.pdb
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_23_Ref_Out\Task_23_Ref_Out\obj\Debug\Task_23_Ref_Out.csproj.AssemblyReference.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_23_Ref_Out\Task_23_Ref_Out\obj\Debug\Task_23_Ref_Out.csproj.CoreCompileInputs.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_23_Ref_Out\Task_23_Ref_Out\obj\Debug\Task_23_Ref_Out.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_23_Ref_Out\Task_23_Ref_Out\obj\Debug\Task_23_Ref_Out.pdb

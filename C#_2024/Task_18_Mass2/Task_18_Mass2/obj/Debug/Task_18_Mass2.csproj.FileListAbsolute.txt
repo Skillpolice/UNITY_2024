@@ -1,0 +1,7 @@
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_18_Mass2\Task_18_Mass2\bin\Debug\Task_18_Mass2.exe.config
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_18_Mass2\Task_18_Mass2\bin\Debug\Task_18_Mass2.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_18_Mass2\Task_18_Mass2\bin\Debug\Task_18_Mass2.pdb
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_18_Mass2\Task_18_Mass2\obj\Debug\Task_18_Mass2.csproj.AssemblyReference.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_18_Mass2\Task_18_Mass2\obj\Debug\Task_18_Mass2.csproj.CoreCompileInputs.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_18_Mass2\Task_18_Mass2\obj\Debug\Task_18_Mass2.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_18_Mass2\Task_18_Mass2\obj\Debug\Task_18_Mass2.pdb

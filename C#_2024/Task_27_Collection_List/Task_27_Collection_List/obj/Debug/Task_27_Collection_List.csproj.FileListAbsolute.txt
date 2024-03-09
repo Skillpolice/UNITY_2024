@@ -1,0 +1,7 @@
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_27_Collection_List\Task_27_Collection_List\bin\Debug\Task_27_Collection_List.exe.config
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_27_Collection_List\Task_27_Collection_List\bin\Debug\Task_27_Collection_List.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_27_Collection_List\Task_27_Collection_List\bin\Debug\Task_27_Collection_List.pdb
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_27_Collection_List\Task_27_Collection_List\obj\Debug\Task_27_Collection_List.csproj.AssemblyReference.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_27_Collection_List\Task_27_Collection_List\obj\Debug\Task_27_Collection_List.csproj.CoreCompileInputs.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_27_Collection_List\Task_27_Collection_List\obj\Debug\Task_27_Collection_List.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_27_Collection_List\Task_27_Collection_List\obj\Debug\Task_27_Collection_List.pdb

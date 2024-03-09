@@ -1,0 +1,7 @@
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_25_TestWork_HealthBat\Task_25_TestWork_HealthBat\bin\Debug\Task_25_TestWork_HealthBat.exe.config
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_25_TestWork_HealthBat\Task_25_TestWork_HealthBat\bin\Debug\Task_25_TestWork_HealthBat.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_25_TestWork_HealthBat\Task_25_TestWork_HealthBat\bin\Debug\Task_25_TestWork_HealthBat.pdb
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_25_TestWork_HealthBat\Task_25_TestWork_HealthBat\obj\Debug\Task_25_TestWork_HealthBat.csproj.AssemblyReference.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_25_TestWork_HealthBat\Task_25_TestWork_HealthBat\obj\Debug\Task_25_TestWork_HealthBat.csproj.CoreCompileInputs.cache
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_25_TestWork_HealthBat\Task_25_TestWork_HealthBat\obj\Debug\Task_25_TestWork_HealthBat.exe
+D:\1.Unity_Learn\1.GeekBrains -2023\UNITY_2023\C#_2023\Task_25_TestWork_HealthBat\Task_25_TestWork_HealthBat\obj\Debug\Task_25_TestWork_HealthBat.pdb
